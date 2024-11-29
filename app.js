@@ -10,8 +10,8 @@
  *    </div>
  * <div>
  */
-
-
+import React from "react";
+import ReactDOM from "react-dom/client";
 const parent = React.createElement(
     "div",
     { id: "parent" }, [                                //[name of the tag, {attribue},children]
