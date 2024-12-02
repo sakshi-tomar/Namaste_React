@@ -29,7 +29,7 @@ list-style: none;
     /* height: 400px; */
     width: 250px;
     /* flex-wrap: nowrap; */
-    /* text-align: center; */
+    text-align: center;
 }
 .res-card:hover{
     border: 1px solid black ;
@@ -46,6 +46,6 @@ list-style: none;
 .res-container{
     display: flex;
     flex-wrap: wrap;
-    /* justify-content: space-around; */
+    justify-content: space-around;
     
 }
